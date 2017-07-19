@@ -1,0 +1,22 @@
+{
+  "name": "asyncexction",
+  "version": "1.0.0",
+  "description": "get async exception through async hook(node.js version is latter v8.0.0).",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spursy/asyncexction.git"
+  },
+  "author": "spursyy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spursy/asyncexction/issues"
+  },
+  "homepage": "https://github.com/spursy/asyncexction#readme",
+  "dependencies": {
+    "async_hooks":""
+  }
+}
